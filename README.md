@@ -2,7 +2,7 @@
 
 I'm a software engineer who is passionate about improving the developer experience by writing well-documented and legible code. This is a constant learning process that keeps me motivated and I hope to share what I learn along the way!
 
-- 🔭 I’m currently working on a personal VSCode Extension for learning alogorithms.
+- 🔭 I’m currently working on a personal VSCode Extension for fun.
 - 🌱 I’m currently learning Typescript.
 - 🤓 Javascript/Typescript Lover.
 
