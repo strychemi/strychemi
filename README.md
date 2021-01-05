@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Andrew Baik! 👋
 
-<!--
-**strychemi/strychemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who is passionate about improving the developer experience by writing well-documented and legible code. This is a constant learning process that keeps me motivated and I hope to share what I learn along the way!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a personal VSCode Extension for learning alogorithms.
+- 🌱 I’m currently learning Typescript.
+- 🤓 Javascript/Typescript Lover.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![strychemi's github stats](https://github-readme-stats.vercel.app/api?username=strychemi&theme=dark&show_icons=true?count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strychemi&theme=dark&layout=compact)
